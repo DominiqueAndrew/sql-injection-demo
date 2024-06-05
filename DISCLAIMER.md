@@ -1,0 +1,3 @@
+# Disclaimer
+
+This project is intended for educational purposes only to demonstrate the risks associated with SQL Injection vulnerabilities and how to prevent them. Do not use this code or similar techniques on any production system or without proper authorization. Unauthorized access to systems is illegal and unethical. Always follow best practices for securing applications and seek permission before performing any security testing.
