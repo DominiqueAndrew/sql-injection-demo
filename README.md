@@ -31,6 +31,8 @@ This repository demonstrates how SQL Injection attacks work and how to prevent t
 
 4. **View Results**:
     You should now see a table with all usernames and passwords from the database
+   
+![2024-06-0520-49-40-ezgif com-video-to-gif-converter](https://github.com/DominiqueAndrew/sql-injection-demo/assets/171833740/a2ad1397-0d5b-4034-bb2f-69ec73045435)
 
 ## Switching Between Vulnerable and Secured Login
 
